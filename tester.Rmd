@@ -13,6 +13,9 @@ library(usethis)
 
 plot(cars)
 plot(cars)
+
+plot(cars)
+plot(cars)
 plot(cars)
 ```
 
